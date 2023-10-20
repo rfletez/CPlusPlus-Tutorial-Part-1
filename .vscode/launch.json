@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/rosny/Documents/CodingPractice/CPPPractice/CPlusPlus-Tutorial-Part-1",
-      "program": "/Users/rosny/Documents/CodingPractice/CPPPractice/CPlusPlus-Tutorial-Part-1/build/Debug/outDebug"
+      "cwd": "/Users/rosny/Documents/CodingPractice/CPPPractice/CPlusPlus-Tutorial-Part-1/tutorial/freeCodeCamp/tutorial",
+      "program": "/Users/rosny/Documents/CodingPractice/CPPPractice/CPlusPlus-Tutorial-Part-1/tutorial/freeCodeCamp/tutorial/build/Debug/outDebug"
     }
   ]
 }
